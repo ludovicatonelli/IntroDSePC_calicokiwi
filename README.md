@@ -10,3 +10,4 @@ Ciao sono Michela anche a me piace mangiare haha
 ansia
 e
 confusione
+##disagio
