@@ -8,6 +8,6 @@ Ho 22 anni e il mio piatto preferito è la cotoletta alla bolognese.
 Ciao sono Michela anche a me piace mangiare haha
 >>>>>>> origin/miki
 ansia
-e
 confusione
-##disagio
+>>>>>>> 
+###disagio
